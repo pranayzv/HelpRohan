@@ -42,8 +42,12 @@ border-style: solid;
     }
 
 .highlight_text{
-
     font-weight: bold;
+}
+
+.highlight_text2{
+    font-weight: bold;
+    background-color: aquamarine;
 }
 .secondary_text{
 background-color: whitesmoke;
