@@ -33,14 +33,18 @@ border-style: solid;
     width: 45%;
     margin-top: 10px;
     font-size: 2em; 
-        padding: 5px;
-        font-weight: bold;
+    padding: 5px;
+    font-weight: bold;
         border-radius: 3px;
         border-width: 1px;
     border-radius: 5px;
     border-style: solid;
     }
 
+.highlight_text{
+
+    font-weight: bold;
+}
 .secondary_text{
 background-color: whitesmoke;
     width: 30%;
