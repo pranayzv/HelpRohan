@@ -1,6 +1,6 @@
 
 .header{
-    width: 20%;
+    width: 30%;
     font-size: 2em; 
     font-weight: bold;
     background-color: aquamarine;
@@ -17,7 +17,7 @@ border-style: solid;
 }
 
 .bank_details{
-background-color: whitesmoke;
+background-color: bisque;
 border: black;
 border-width: 1px;
 margin: 10px;
@@ -26,10 +26,26 @@ padding: 20px;
 border-style: solid;
 }
 
+
+.donation_text{
+    background-color: whitesmoke;
+    word-wrap: normal;
+    width: 11%;
+        padding: 5px;
+        font-weight: bold;
+        border-radius: 3px;
+        border-width: 1px;
+    border-radius: 5px;
+    border-style: solid;
+    }
+
 .secondary_text{
+background-color: whitesmoke;
     width: 30%;
-    font-weight: bold;
-    background-color: #DEACF5;
     padding: 5px;
+    font-weight: bold;
     border-radius: 3px;
+    border-width: 1px;
+border-radius: 5px;
+border-style: solid;
 }
