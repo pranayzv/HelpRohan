@@ -1,7 +1,8 @@
 
 
 body{
-    -webkit-text-size-adjust: 100%;
+    -moz-appearance: none; 
+    -webkit-appearance: none;
     font-family: 'Lato', sans-serif;
 }
 .header{
@@ -56,7 +57,7 @@ border-style: solid;
 
 .highlight_text2{
     font-weight: bold;
-    background-color: #332940;
+    background-color: #131313;
     color: white;
     border-radius: 3px;
     padding: 6px;
