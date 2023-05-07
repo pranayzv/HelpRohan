@@ -57,10 +57,10 @@ border-style: solid;
 
 .highlight_text2{
     font-weight: bold;
-    background-color: #131313;
+    background-color: #2e2d2d;
     color: white;
     border-radius: 3px;
-    padding: 6px;
+    padding: 10px;
     border-width: 1px;
     font-family: 'Lato', sans-serif;
 }
