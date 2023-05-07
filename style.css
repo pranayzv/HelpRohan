@@ -1,9 +1,14 @@
 
+
+body{
+    -webkit-text-size-adjust: 100%;
+    font-family: 'Lato', sans-serif;
+}
 .header{
-    width: 50%;
     font-size: 4em; 
     font-weight: bold;
     background-color: aquamarine;
+    padding: 20px;
 }
 
 .about{
@@ -11,7 +16,10 @@ background-color: whitesmoke;
 border: black;
 border-width: 1px;
 padding: 20px;
-margin: 10px;
+margin-top: 20px;
+margin-right: 20px;
+margin-left: 20px;
+margin-bottom: 10px;
 border-radius: 10px;
 border-style: solid;
 }
@@ -20,7 +28,10 @@ border-style: solid;
 background-color: bisque;
 border: black;
 border-width: 1px;
-margin: 10px;
+margin-top: 20px;
+margin-right: 20px;
+margin-left: 20px;
+margin-bottom: 10px;
 border-radius: 10px;
 padding: 20px;
 border-style: solid;
@@ -29,25 +40,28 @@ border-style: solid;
 
 .donation_text{
     background-color: whitesmoke;
-    word-wrap: normal;
-    width: 45%;
-    margin-top: 10px;
-    font-size: 2.5em; 
+    font-size: 25px; 
+    overflow-wrap: break-word;
     padding: 5px;
-    font-weight: bold;
-        border-radius: 3px;
-        border-width: 1px;
+    border-radius: 3px;
+    border-width: 1px;
     border-radius: 5px;
     border-style: solid;
     }
 
 .highlight_text{
     font-weight: bold;
+    font-family: 'Lato', sans-serif;
 }
 
 .highlight_text2{
     font-weight: bold;
-    background-color: aquamarine;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    padding: 2px;
+    border-width: 1px;
+    font-family: 'Lato', sans-serif;
 }
 .secondary_text{
 background-color: whitesmoke;
