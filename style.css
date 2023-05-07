@@ -52,20 +52,17 @@ border-style: solid;
 
 .highlight_text{
     font-weight: bold;
-    font-family: 'Lato', sans-serif;
 }
 
 .highlight_text2{
-
     background-color: #2e2d2d;
     color: white;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 10px;
     border-width: 1px;
 }
 .secondary_text{
 background-color: whitesmoke;
-    width: 30%;
     padding: 5px;
     font-weight: bold;
     border-radius: 3px;
