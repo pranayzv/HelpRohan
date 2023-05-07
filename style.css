@@ -1,6 +1,6 @@
 
 .header{
-    width: 30%;
+    width: 40%;
     font-size: 4em; 
     font-weight: bold;
     background-color: aquamarine;
@@ -31,6 +31,8 @@ border-style: solid;
     background-color: whitesmoke;
     word-wrap: normal;
     width: 45%;
+    margin-top: 10px;
+    font-size: 3em; 
         padding: 5px;
         font-weight: bold;
         font-size: large;
